@@ -2,12 +2,12 @@
   "name": "twitter-rest-api",
   "version": "0.0.0",
   "dependencies": {
-    "connect": "2.9.0",
-    "express": "~3.4.7",
-    "twit": "~1.1.11",
-    "async": "~0.2.9",
-    "moment": "~2.5.1",
-    "rewire": "2.3.1"
+    "connect": "3.5.0",
+    "express": "~4.14.0",
+    "twit": "~2.2.5",
+    "async": "~2.1.2",
+    "moment": "~2.15.2",
+    "rewire": "2.5.2"
   },
   "engines": {
     "node": ">=0.10.25"
